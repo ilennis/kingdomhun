@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# 김동훈의 홈페이지
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
